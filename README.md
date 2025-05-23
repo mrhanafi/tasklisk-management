@@ -1,6 +1,6 @@
 # Tasklisk Management
 
-A simple yet powerful task list management application built with **Laravel 12** and **React**. This project offers a modern full-stack solution for managing tasks efficiently, combining the robustness of Laravel for the backend with the flexibility of React for the frontend.
+A simple yet powerful task list management application built with **Laravel 12**, **Inertia** and **React**. This project offers a modern full-stack solution for managing tasks efficiently, combining the robustness of Laravel for the backend with the flexibility of React for the frontend.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ A simple yet powerful task list management application built with **Laravel 12**
 
 - **Task Management**: Create, read, update, and delete tasks seamlessly.
 - **Modern UI**: Responsive and intuitive user interface built with React.
-- **API Integration**: RESTful API endpoints powered by Laravel.
 - **State Management**: Efficient state handling using React hooks.
 - **Modular Architecture**: Clean and maintainable codebase with separation of concerns.
 
@@ -47,7 +46,7 @@ A simple yet powerful task list management application built with **Laravel 12**
 
 Make sure you have the following installed:
 
-- PHP >= 8.1
+- PHP >= 8.4
 - Composer
 - Node.js >= 16.x
 - NPM
@@ -115,32 +114,6 @@ tasklisk-management/
 └── ...
 ```
 
-## Contributing
-
-Contributions are welcome!
-
-1. Fork the repo.
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-3. Make your changes and commit:
-
-   ```bash
-   git commit -m "Add some feature"
-   ```
-
-4. Push to your branch:
-
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-5. Open a Pull Request.
-
-Ensure your code follows the style guide and passes tests.
 
 ## License
 
